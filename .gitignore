@@ -1,0 +1,29 @@
+# Local builds and generated fixtures
+/build/
+/qa/
+/*-output.txt
+*.o
+*.exe
+*.dll
+*.a
+*.def
+*.cbp.layout
+
+# Keep only the distributable package and checksum in dist
+/dist/*
+!/dist/APCSPracticeStudio.cbplugin
+!/dist/SHA256SUMS.txt
+
+# Practice data and local IDE settings
+allPractice/
+allLogs/
+allPracticeTime.json*
+allPracticeState.json*
+setting.json*
+.apcs/
+.trash/
+.apcs-workspace.lock
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

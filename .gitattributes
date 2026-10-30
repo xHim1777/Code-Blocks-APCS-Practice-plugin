@@ -1,0 +1,5 @@
+* text=auto
+*.cbplugin binary
+# Preserve upstream license files verbatim, including their whitespace.
+/licenses/* -whitespace
+/third_party/LICENSE* -whitespace

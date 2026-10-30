@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_plugin_manifest_file>
+  <SdkVersion major="2" minor="25" release="0" />
+  <Plugin name="APCSPracticeStudio">
+    <Value title="APCS Practice Studio" />
+    <Value version="1.1.6" />
+    <Value description="C++ practice workspaces, build targets, persistent timers, build logs and recoverable trash." />
+    <Value author="APCS Practice" />
+    <Value license="MIT" />
+  </Plugin>
+</CodeBlocks_plugin_manifest_file>
